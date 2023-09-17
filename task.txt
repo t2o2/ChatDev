@@ -25,14 +25,13 @@ url = "https://github.com/m-pays/magi"
 url = "https://github.com/m-pays/magi-api-cpp"
 --------
 
-The CSV shows the total unique active developers across all repos and list each unique active developers within each
-individual repo. Then it generates a csv file which looks like this:
+The CSV shows the total unique active developers across all repos. Then it generates a csv file which looks like this:
 
-date       | active developers | m-pays/m-cpuminer-qt | m-pays/cpuminer-v2 | m-pays/magi
------------+-------------------+----------------------+--------------------+--------------
-2021-01-10 | 7 | 1 | 2 | 7
-2021-01-11 | 2  | 1 | 0 | 1
-2021-01-12 | 16 | 10 | 11 | 2
-2021-01-13 | 5  | 3 | 3 | 3
+date       | active developers 
+-----------+-------------------
+2021-01-10 | 7 
+2021-01-11 | 2 
+2021-01-12 | 16
+2021-01-13 | 5 
 
 The output csv should be sorted in chronological order based on the date.
